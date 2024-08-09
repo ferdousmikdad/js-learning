@@ -20,4 +20,4 @@ let selectedColor = null;
 // If we set the value of name like "name = 1"
 // you will get the answer "number" when you will type in the console "type of name" after change the value of name
 
-// You can google or ChatGpt it if you don't understand better. 
+// You can google or ChatGpt it if you don't understand better.

@@ -34,4 +34,4 @@ person[selection] = 'Miku';
 
 console.log(person.name); // It should be your default choice.
 
-// If this is confusing, don't worry, we're going to see this again in the future. 
+// If this is confusing, don't worry, we're going to see this again in the future.
