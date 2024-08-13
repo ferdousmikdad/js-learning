@@ -3,9 +3,8 @@
 // When working with complex expression, 
 // one thing that you need to account for is the precedence of operators
 // example, 
-let x = 2 + 3 * 4;
-
-console.log (x);
+// let x = 2 + 3 * 4;
+// console.log (x);
 
 // Now, all these operators you have learned in this section, 
 // they have their own precedence.
@@ -15,6 +14,5 @@ console.log (x);
 // ---parenthesis to determine how these operators are applied.
 // For example, 
 
- let y = (2 + 3) * 4;
-
- console.log(y);
+//  let y = (2 + 3) * 4;
+//  console.log(y);
